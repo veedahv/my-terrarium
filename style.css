@@ -86,23 +86,23 @@ h1 {
 }
 
 .jar-glossy {
-	width: 3%;
+	width: 13px;
 	background: #00ffff;
 	position: absolute;
     left: 5%;
     border-radius: 10px;
-    opacity: .5;
+    opacity: .7;
     z-index: 20;
 }
 
 .jar-glossy-long {
-	bottom: 28%;
-    height: 10%;
+	height: 18%;
+	bottom: 15%;
 }
 
 .jar-glossy-short {
     height: 6%;
-	bottom: 20%;
+	bottom: 38%;
 }
 
 .dirt {
